@@ -59,7 +59,6 @@ dist/
 
 # Gatsby
 .cache/
-public/
 
 # Storybook
 .out
